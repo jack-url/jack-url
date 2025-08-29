@@ -1,12 +1,12 @@
 #  Cybersecurity Analyst | Penetration Tester | DevOps Engineer  
 
-## 👋 About Me  
+##  About Me  
 I am a **Cybersecurity Analyst and Penetration Tester** with a strong background in **Linux servers, databases, and backend development in Golang**.  
 My focus is on **identifying vulnerabilities, securing infrastructures, and building resilient DevOps pipelines**.  
 
  Skilled in **offensive security, penetration testing, and automation**  
-⚡ Experienced with **cloud-native DevOps, CI/CD, and containerized deployments**  
-☁️ Passionate about bridging the gap between **security and development** to deliver **secure and scalable systems**  
+ Experienced with **cloud-native DevOps, CI/CD, and containerized deployments**  
+ Passionate about bridging the gap between **security and development** to deliver **secure and scalable systems**  
 
 ---
 
@@ -52,5 +52,5 @@ My focus is on **identifying vulnerabilities, securing infrastructures, and buil
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with  jack    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-kiriga/)  
